@@ -4,7 +4,7 @@ import StudentForm from "./StudentForm";
 import StudentList from "./StudentList";
 import './assets/css/style.css'; 
 
-const API_URL = "https://student-production-f8fd.up.railway.app/students";
+const API_URL = "https://student-production-36fd.up.railway.app/students";
 
 
 function App() {
